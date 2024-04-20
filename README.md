@@ -31,10 +31,6 @@ This project is unlicensed and can be used, modified, and distributed freely by 
 
 Contributing guidelines for those who wish to contribute can be found in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## Acknowledgements
-
-We would like to thank all contributors who participated in the development of this project.
-
 ## Contact Information
 
 - For feedback or questions regarding the project, you can reach out via GitHub.
