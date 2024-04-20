@@ -1,12 +1,9 @@
-# JavaScript Game
+Tap Go
 
-This project is a simple game developed using JavaScript, HTML, and CSS. The game is a platformer where the player controls a ball using the mouse to avoid obstacles.
+Tap Go is a browser game designed in a simple and fun style. The game requires you to jump your character upwards with mouse clicks and avoid a lava and dangerous obstacles coming from below. Additionally, you can earn points by overcoming obstacles that appear above as you jump your character.
+Gameplay
 
-## Features
-
-- Controllable with mouse movements.
-- Feature to dodge obstacles and collect scores.
-- Simple and user-friendly interface.
+The objective of the game is to keep your character alive for as long as possible. Click the mouse to jump your character upward and avoid obstacles coming from below. Also, as you jump, overcome obstacles appearing above to earn points. The game ends if your character collides with lava or obstacles above.
 
 ## Installation
 
